@@ -12,3 +12,7 @@ a {
     color: rgb(250, 0, 137);
 }
 
+img {
+    height: auto;
+    width: 400px;
+}
