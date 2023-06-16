@@ -1,5 +1,6 @@
 * {
     background-color: rgb(169, 241, 232);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .recipe-list {
@@ -9,3 +10,4 @@
 .recipe-link {
     text-decoration: none;
 }
+
