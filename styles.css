@@ -2,3 +2,6 @@
     background-color: rgb(169, 241, 232);
 }
 
+.recipe-list {
+    list-style-type: none;
+}
