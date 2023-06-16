@@ -5,3 +5,7 @@
 .recipe-list {
     list-style-type: none;
 }
+
+.recipe-link {
+    text-decoration: none;
+}
