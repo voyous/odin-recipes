@@ -1,14 +1,6 @@
 * {
-    background-color: rgb(169, 241, 232);
+    background-color: rgb(174, 224, 219);
     font-family: 'Courier New', Courier, monospace;
-}
-
-.title, .subtitle, .recipe-list {
-    text-align: center;
-}
-
-.recipe-list {
-    list-style-type: none;
 }
 
 a {
@@ -19,4 +11,20 @@ a {
 img {
     height: auto;
     width: 400px;
+}
+
+.title, .subtitle, .recipe-list {
+    text-align: center;
+}
+
+.recipe-list {
+    list-style-type: none;
+}
+
+.title {
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    margin-top: 0;
 }
