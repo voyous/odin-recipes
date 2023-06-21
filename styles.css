@@ -3,6 +3,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.title, .subtitle, .recipe-list {
+    text-align: center;
+}
+
 .recipe-list {
     list-style-type: none;
 }
